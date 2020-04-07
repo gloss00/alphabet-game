@@ -6,7 +6,7 @@
 }
 
 .content {
-    background-color: red;
+    background-color: deepskyblue;
     margin: 10px;
     padding: 40px;
     height: 98vh;
@@ -18,11 +18,11 @@
 }
 
 .box {
-    width: 400px;        
+    width: 450px;        
     border: 10px solid rgb(240, 247, 253);
     display: block;
     background: #fff;
-    height: 400px;
+    height: 450px;
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 1;
