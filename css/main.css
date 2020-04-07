@@ -18,11 +18,11 @@
 }
 
 .box {
-    width: 550px;        
+    width: 450px;        
     border: 10px solid rgb(240, 247, 253);
     display: block;
     background: #fff;
-    height: 550px;
+    height: 450px;
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 1;
