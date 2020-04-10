@@ -5,11 +5,14 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+  }
+
 .content {
     background-color: deepskyblue;
-    margin: 10px;
     padding: 10px;
-    height: 98vh;
+    height: 100%;
     display: grid;
     grid-template-columns: auto 30% auto;
     grid-template-rows: 87% auto;
