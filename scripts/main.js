@@ -51,8 +51,8 @@ render = (index) => {
 
 
 //event listeners
-document.getElementById('rightNav').addEventListener('click', nextScreen);
-document.getElementById('leftNav').addEventListener('click', previousScreen);
+document.querySelector('.right').addEventListener('click', nextScreen);
+document.querySelector('.left').addEventListener('click', previousScreen);
 
 
 
