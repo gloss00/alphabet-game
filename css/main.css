@@ -15,7 +15,7 @@ html, body {
     height: 100%;
     display: grid;
     grid-template-columns: auto 30% auto;
-    grid-template-rows: 87% auto;
+    grid-template-rows: 70% auto;
 }
 
 .box {
